@@ -1,4 +1,4 @@
-# zero_people_app
+#Nexo_personas
 
 A new Flutter project.
 
